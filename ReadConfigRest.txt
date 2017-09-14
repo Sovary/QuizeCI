@@ -1,0 +1,8 @@
+feature
+
+Login with FB
+Login manually and register
+Answer and create QGM
+Delete question
+user could see question each other
+
